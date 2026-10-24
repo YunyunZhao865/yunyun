@@ -1,0 +1,4 @@
+data/
+__pycache__/
+manuscript_tools/
+*.pyc

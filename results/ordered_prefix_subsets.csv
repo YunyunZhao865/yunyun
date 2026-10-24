@@ -1,0 +1,8 @@
+k,features,F1_mean,F1_sd,PRAUC_mean,PRAUC_sd
+1,['Torque'],0.0,0.0,0.3462821825984868,0.034229976700634705
+2,"['Torque', 'Rotational speed']",0.0,0.0,0.38105763271955206,0.046317353059274154
+3,"['Torque', 'Rotational speed', 'Tool wear']",0.5293962793962794,0.04590701469784756,0.5457913098212775,0.05558575286380399
+4,"['Torque', 'Rotational speed', 'Tool wear', 'Air temperature']",0.5496918807247663,0.038247914436479784,0.6239579400865908,0.0634793246831622
+5,"['Torque', 'Rotational speed', 'Tool wear', 'Air temperature', 'Load-thermal interaction']",0.7223150996733028,0.050253697655335626,0.7544216334423882,0.06782212897370613
+6,"['Torque', 'Rotational speed', 'Tool wear', 'Air temperature', 'Load-thermal interaction', 'Process temperature']",0.7406788302741752,0.06824855158704493,0.7630313801951067,0.06873946409423293
+7,"['Torque', 'Rotational speed', 'Tool wear', 'Air temperature', 'Load-thermal interaction', 'Process temperature', 'Product type']",0.7514285714285714,0.041814893658033564,0.7954513101801861,0.049970416293291055
